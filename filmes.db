@@ -1,0 +1,11 @@
+
+"CREATE TABLE filmes (
+        id INTEGER PRIMARY KEY AUTOINCREMENT
+        titulo VARCHAR (200) not null,
+        posters VARCHAR(200),
+        sinopse TEXT,
+        nota DECIMAL(2,1)
+
+)
+";
+
